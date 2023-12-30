@@ -25,7 +25,7 @@ The Jupyter notebook details the following steps:
      * The 'Joined' column, which is in the format 'Month day, year', was transformed into a pandas datetime object, handling any parsing errors.
      * Three new columns: 'Joined_Year', 'Joined_Month', and 'Joined_Day' were created, extracting the respective year, month, and day from the converted datetime. This enhances the dataset by breaking down the joining date into separate, more analyzable components."
  * Handling missing values: Strategies used to fill or remove missing data.
-   Drop the redundant columns and rows with missing values
+     * Drop the redundant columns and rows with missing values
 
 ### Libraries Used
 * Pandas: For data manipulation and analysis.
