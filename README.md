@@ -3,7 +3,7 @@ This project involves a detailed data cleaning process, documented in a Jupyter 
 The Jupyter notebook contains detailed steps and methodologies used to transform the raw data into a more usable form.
 
 ### Data Source
-The dataset used in this project is the [FIFA 21 Messy Raw Dataset](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring?select=fifa21+raw+data+v2.csv) gottenfrom Kaggle. It includes various player attributes and performance metrics from the popular video game FIFA 21.
+The dataset used in this project is the [FIFA 21 Messy Raw Dataset](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring?select=fifa21+raw+data+v2.csv) gotten from Kaggle. It includes various player attributes and performance metrics from the popular video game FIFA 21.
 
 ### Objectives
 The main objectives of the data cleaning process include:
